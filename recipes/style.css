@@ -1,10 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+
 .container {
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    padding-inline: 500px;
+    padding-inline-start: 300px;
+    padding-inline-end: 300px;
+    border-left: 3px solid rgb(168, 168, 168);
+    border-right: 3px solid rgb(168, 168, 168);
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: aliceblue;
 }
 
 #list {
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
     margin-left: 0;
     padding-left: 0;
 
